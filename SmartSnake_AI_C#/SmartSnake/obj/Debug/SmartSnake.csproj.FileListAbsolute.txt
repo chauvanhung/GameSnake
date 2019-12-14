@@ -1,0 +1,24 @@
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\bin\Debug\SmartSnake.exe
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\AI_Snake.GUI.Form1.resources
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\AI_Snake.Properties.Resources.resources
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\SmartSnake.csproj.GenerateResource.Cache
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\SmartSnake.exe
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\obj\Debug\SmartSnake.pdb
+D:\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake\SmartSnake\bin\Debug\SmartSnake.pdb
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\SmartSnake.exe
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\SmartSnake.pdb
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\bin\Debug\SmartSnake.exe
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\bin\Debug\SmartSnake.pdb
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\AI_Snake.GUI.Form1.resources
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\AI_Snake.Properties.Resources.resources
+D:\Google Drive\Tai lieu hoc tap\DHAG\Hoc ky 5\Mon Hoc\Artificial Intelligence\Practises\AI_Snake_final\AI_Snake\SmartSnake\obj\Debug\SmartSnake.csproj.GenerateResource.Cache
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\SmartSnake.exe
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\SmartSnake.pdb
+E:\SmartSnake_AI_C#\SmartSnake\bin\Debug\SmartSnake.exe
+E:\SmartSnake_AI_C#\SmartSnake\bin\Debug\SmartSnake.pdb
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\SmartSnake.csprojResolveAssemblyReference.cache
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\AI_Snake.GUI.Form1.resources
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\AI_Snake.Properties.Resources.resources
+E:\SmartSnake_AI_C#\SmartSnake\obj\Debug\SmartSnake.csproj.GenerateResource.Cache

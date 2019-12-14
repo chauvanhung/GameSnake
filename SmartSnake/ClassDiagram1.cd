@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI_Snake.AI.BreadthFirstSearch">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AI\BreadthFirstSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.AI.DepthFirstSearch">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AI\DepthFirstSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.AI.State">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAgAAgAIgAAAAIAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>AI\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.GUI.Form1">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARKGsA0EAKRARJAEZASAIgCCEAAAKkgNAICkEUBgYIE=</HashCode>
+      <FileName>GUI\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.Food">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAgAgAAAAIAAAAAAAAAQAAABAAAA=</HashCode>
+      <FileName>Snake\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.Render">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snake\Render.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.Screen">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAAgAAAAAACAAAAAAAAAAAAAAQAAAAAg=</HashCode>
+      <FileName>Snake\Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.SmartSnake">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAAIAAAAIAAAACAAAAAAAAAIAAAAAAAAQgAAA=</HashCode>
+      <FileName>Snake\SmartSnake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.Snake">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAoAgAEAAgQJBAAECAQEAEAACABBAAAA=</HashCode>
+      <FileName>Snake\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI_Snake.Snake.Wall">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAABAAAAAAAAAAAAAAAAIAAAADAAAA=</HashCode>
+      <FileName>Snake\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AI_Snake.Snake.ScreenType">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAhACAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Snake\ScreenType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AI_Snake.Snake.Transfer">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Snake\Transfer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AI_Snake.AI.Algorithms">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACE=</HashCode>
+      <FileName>AI\Algorithms.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
